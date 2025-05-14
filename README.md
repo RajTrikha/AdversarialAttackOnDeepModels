@@ -35,7 +35,7 @@ Our goal is to drive ResNet-34’s Top-1 accuracy down by ≥70%, and to demonst
   - Complete collapse of classification
 
 - **Adv Set 3 (Patch-PGD, ε=0.3, 32×32 patch):**  
-  - Top-1: **50.0%**, Top-5: **80.0%** (example)  
+  - Top-1: **35.60%**, Top-5: **73.20%** (example)  
 
 - **Transfer to DenseNet-121:**  
   | Dataset                 | Top-1 (%) | Top-5 (%) |
