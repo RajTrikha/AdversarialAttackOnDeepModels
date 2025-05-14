@@ -1,4 +1,3 @@
-# AdversarialAttackOnDeepModels
 # Jailbreaking Deep Models: Adversarial Attacks on ResNet-34 and DenseNet-121
 
 **Team Members:** 
