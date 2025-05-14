@@ -60,5 +60,5 @@ We use a **500-image** test set drawn from ImageNet-1K:
 
 ---
 
-## 📁 Project Structure
+
 
